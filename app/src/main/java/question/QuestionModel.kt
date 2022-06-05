@@ -1,0 +1,4 @@
+package question
+
+class QuestionModel {
+}
